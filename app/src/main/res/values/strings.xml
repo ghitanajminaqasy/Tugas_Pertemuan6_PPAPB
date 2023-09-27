@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TugasPertemuan6</string>
+    <array name="keterangan2">
+        <item>Hadir Tepat Waktu</item>
+        <item>Sakit</item>
+        <item>Terlambat</item>
+        <item>Izin</item>
+    </array>
+</resources>
